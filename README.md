@@ -7,7 +7,7 @@ Olá :D
  <div>
   <a href="https://github.com/robertmller">
   <img height="180" width="510" src="https://github-readme-stats.vercel.app/api?username=robertmller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180" width="510" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertmller)](https://github.com/robertmller/github-readme-stats)>
+  <img height="180" width="510" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertmller)](https://github.com/anuraghazra/github-readme-stats)>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
