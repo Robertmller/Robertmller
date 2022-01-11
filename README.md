@@ -4,30 +4,30 @@ Olá :D
 - 🌱 Estudando C# e Python
 - 📫 Entre em contato no email: contatorobertmull@gmail.com
 
- <div>
-  <a href="https://github.com/robertmller">
-  <img height="180" width="510" src="https://github-readme-stats.vercel.app/api?username=robertmller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180" width="510" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertmller)](https://github.com/anuraghazra/github-readme-stats)/>
-                                      
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://static.cdnlogo.com/logos/c/27/c.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="GIF" height="100" width="100" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/robert.c.muller" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorobertmull@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/robertcconceicao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+### Entre em contato por:
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/robertcconceicao/")
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:contatorobertmull@gmail.com")
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]("")
+
+![Robert GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertmller&show_icons=true&theme=tokyonight)
+
+
+### Tecnologias que utilizo no dia-a-dia:
+
+<div style="display: inline_block"> <br/> 
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img align="center" alt="node" src="	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+<img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+</div> <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertmller&layout=compact)](https://github.com/robertmller/github-readme-stats)
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
