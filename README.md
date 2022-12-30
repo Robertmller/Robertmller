@@ -5,9 +5,6 @@ Olá :D
 
 ![Robert GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertmller&show_icons=true&theme=tokyonight)
 
-
-### Tecnologias que utilizo no dia-a-dia:
-
 </div> <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertmller&layout=compact)](https://github.com/robertmller/github-readme-stats)
